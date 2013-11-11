@@ -1,0 +1,13 @@
+prefix=
+exec_prefix=
+libdir=/usr/src/gst-plugins-good/gst-plugins-good/gst-libs/gst
+includedir=/usr/src/gst-plugins-good/gst-plugins-good/gst-libs
+pluginsdir=/usr/src/gst-plugins-good/gst-plugins-good
+
+Name: GStreamer Good Plugins, Uninstalled
+Description: Streaming media framework, good plugins, uninstalled
+Version: 1.0.9
+Requires: gstreamer-1.0 gstreamer-plugins-base-1.0
+
+Libs: 
+Cflags: 
